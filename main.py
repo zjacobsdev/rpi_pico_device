@@ -12,8 +12,8 @@ from machine import Pin
 # rtc= machine.RTC()
 # print(rtc.datetime())
 
-ssid = 'GL-MT300N-V2-731'
-password = 'goodlife'   
+ssid = 'blank'
+password = 'blank'   
 
  
 url = "http://192.168.8.188:8080/mailbox-status"
